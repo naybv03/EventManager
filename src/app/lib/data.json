@@ -1,0 +1,64 @@
+{
+  "events": [
+    {
+      "event": "Carnaval de Santiago de Cuba",
+      "date": "July 18"
+    },
+    {
+      "event": "Festival del Habano",
+      "date": "February 24"
+    },
+    {
+      "event": "Fiesta del Fuego",
+      "date": "July 3"
+    },
+    {
+      "event": "Festival Internacional de Cine de La Habana",
+      "date": "December 3"
+    },
+    {
+      "event": "Festival Internacional Jazz Plaza",
+      "date": "January 14"
+    },
+    {
+      "event": "Feria Internacional de La Habana",
+      "date": "November 2"
+    },
+    {
+      "event": "Festival Internacional Boleros de Oro",
+      "date": "March 10"
+    },
+    {
+      "event": "Festival Internacional de Ballet de La Habana",
+      "date": "October 28"
+    },
+    {
+      "event": "Festival Internacional de la Trova Pepe Sánchez",
+      "date": "March 1"
+    },
+    {
+      "event": "Festival del Caribe",
+      "date": "July 3"
+    },
+    {
+      "event": "Festival Internacional de Coros",
+      "date": "April 15"
+    },
+    {
+      "event": "Festival Internacional de Guitarra Leo Brouwer",
+      "date": "March 1"
+    },
+    {
+      "event": "Festival Internacional de Cine Pobre",
+      "date": "April 23"
+    },
+    {
+      "event": "Festival Internacional de Rap",
+      "date": "August 17"
+    },
+    {
+      "event": "Festival Internacional de Charangas",
+      "date": "August 2"
+    }
+  ]
+}
