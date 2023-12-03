@@ -9,6 +9,10 @@ The Event Manager is a web application developed with Next.js that allows users 
 - Node.js
 - npm, pnpm, yarn or bun(only linux or macOs)
 
+## Links
+ 1. Nexjs --> https://nextjs.org/docs
+ 2. React --> https://es.react.dev/
+ 
 ## Installation
 
 1. Clone this repository.
