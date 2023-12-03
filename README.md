@@ -12,7 +12,7 @@ The Event Manager is a web application developed with Next.js that allows users 
 ## Links
  1. Nexjs --> https://nextjs.org/docs
  2. React --> https://es.react.dev/
- 
+  
 ## Installation
 
 1. Clone this repository.
